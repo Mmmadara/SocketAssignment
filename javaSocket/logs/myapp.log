@@ -1,0 +1,44 @@
+21:56:10,883  INFO main Log4jRolling:logInfo:11 - New client was connected!
+21:56:10,903  INFO main Log4jRolling:logInfo:11 - New thread was added!
+21:58:08,141  INFO main Log4jRolling:logInfo:11 - New client was connected!
+21:58:08,142  INFO main Log4jRolling:logInfo:11 - New thread was added!
+21:58:13,889  INFO Thread-0 Log4jRolling:logInfo:11 - Server is closing!
+21:58:53,417  INFO main Log4jRolling:logInfo:11 - New client was connected!
+21:58:53,422  INFO main Log4jRolling:logInfo:11 - New thread was added!
+21:59:00,548  INFO Thread-0 Log4jRolling:logInfo:11 - Server is closing!
+22:07:47,555  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:07:47,693  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:08:00,704  INFO Thread-0 Log4jRolling:logInfo:11 - Server is closing!
+22:12:12,512  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:12:12,677  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:12:37,415  INFO Thread-0 Log4jRolling:logInfo:11 - Server is closing!
+22:12:38,013  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:12:38,013  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:13:20,889  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:13:20,908  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:16:07,581  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:16:07,597  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:16:40,177  INFO Thread-0 Log4jRolling:logInfo:11 - Server is closing!
+22:19:56,118  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:19:56,136  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:20:02,533  INFO Thread-0 Log4jRolling:logInfo:11 - Posts are showed!
+22:20:20,172  INFO Thread-0 Log4jRolling:logInfo:11 - usernameuser
+post description:I am user, do u see my post?
+22:20:20,397  INFO Thread-0 Log4jRolling:logInfo:11 - user created new post!
+22:20:23,146  INFO Thread-0 Log4jRolling:logInfo:11 - Client is leaving!
+22:21:25,583  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:21:25,583  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:21:38,066  INFO Thread-1 Log4jRolling:logInfo:11 - Posts are showed!
+22:21:56,075  INFO Thread-1 Log4jRolling:logInfo:11 - usernameuser
+post description:I want to get new friends!!!
+22:21:56,114  INFO Thread-1 Log4jRolling:logInfo:11 - user created new post!
+22:21:58,877  INFO Thread-1 Log4jRolling:logInfo:11 - Client is leaving!
+22:22:38,000  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:22:38,020  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:22:52,743  INFO Thread-0 Log4jRolling:logInfo:11 - Posts are showed!
+22:22:54,826  INFO Thread-0 Log4jRolling:logInfo:11 - Client is leaving!
+22:22:59,075  INFO main Log4jRolling:logInfo:11 - New client was connected!
+22:22:59,078  INFO main Log4jRolling:logInfo:11 - New thread was added!
+22:23:17,367  INFO Thread-1 Log4jRolling:logInfo:11 - User person 2  entered post description: I like this app
+22:23:17,378  INFO Thread-1 Log4jRolling:logInfo:11 - user created new post!
+22:23:19,635  INFO Thread-1 Log4jRolling:logInfo:11 - Client is leaving!
